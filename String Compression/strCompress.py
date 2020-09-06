@@ -1,4 +1,3 @@
-
 class Solution(object):
   def compress(self, chars):
     # Fill this in.
