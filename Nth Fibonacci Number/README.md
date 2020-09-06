@@ -9,7 +9,7 @@ The Fibonacci sequence is the integer sequence defined by the recurrence relatio
 <br>
 Given a number n, print the n-th Fibonacci Number.
 <br><br>
-<b>Examples:</b><br><br>
+<b>Examples:</b><br>
 Input: n = 3<br>
 Output: 2<br>
 <br>
