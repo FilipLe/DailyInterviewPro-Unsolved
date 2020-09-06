@@ -7,7 +7,6 @@ You are the manager of a number of employees who all sit in a row. The CEO would
 The rules of giving bonuses is that:
 <br>
 - Each employee begins with a bonus factor of 1x.
-<br>
 - For each employee, if they perform better than the person sitting next to them, the employee is given +1 higher bonus (and up to +2 if they perform better than both people to their sides).
 <br>
 <br>
