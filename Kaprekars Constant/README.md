@@ -8,4 +8,4 @@ This certain function is as follows:
 - Subtract the ascending number from the descending number.
 - Repeat.
 <br><br>
-Given a number n, find the number of times the function needs to be applied to reach Kaprekar's constant. Here's some starter code:
+<br>Given a number n, find the number of times the function needs to be applied to reach Kaprekar's constant. 
