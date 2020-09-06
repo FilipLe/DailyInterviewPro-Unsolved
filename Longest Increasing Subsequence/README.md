@@ -1,4 +1,4 @@
-Hi, here's your problem today. This problem was recently asked by Microsoft:
+This problem was recently asked by Microsoft:
 <br>
 <br>
 You are given an array of integers. Return the length of the longest increasing subsequence (not necessarily contiguous) in the array.
