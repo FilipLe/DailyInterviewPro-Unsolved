@@ -1,4 +1,4 @@
-Hi, here's your problem today. This problem was recently asked by Uber:
+This problem was recently asked by Uber:
 <br>
 <br>
 Design a simple stack that supports push, pop, top, and retrieving the minimum element in constant time.
