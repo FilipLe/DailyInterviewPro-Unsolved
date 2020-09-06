@@ -1,4 +1,4 @@
-Hi, here's your problem today. This problem was recently asked by Twitter:
+This problem was recently asked by Twitter:
 <br>
 <br>
 Given a list of integers, return the bounds of the minimum range that must be sorted so that the whole list would be sorted.
