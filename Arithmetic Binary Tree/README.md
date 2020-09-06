@@ -1,4 +1,4 @@
-Hi, here's your problem today. This problem was recently asked by Apple:
+This problem was recently asked by Apple:
 <br>
 <br>
 You are given a binary tree representation of an arithmetic expression. In this tree, each leaf is an integer value,, and a non-leaf node is one of the four operations: '+', '-', '*', or '/'.
