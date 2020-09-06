@@ -1,4 +1,4 @@
-Hi, here's your problem today. This problem was recently asked by Amazon:
+This problem was recently asked by Amazon:
 <br>
 <br>
 Given two arrays, write a function to compute their intersection - the intersection means the numbers that are in both arrays.
