@@ -1,4 +1,4 @@
-Hi, here's your problem today. This problem was recently asked by Amazon:
+This problem was recently asked by Amazon:
 <br>
 <br>
 You are given an array of integers. Return an array of the same size where the element at each index is the product of all the elements in the original array except for the element at that index.
