@@ -16,6 +16,6 @@ Given a list of employee's performance, find the bonuses each employee should ge
 <br>
 Example:
 <br>
-/Input: [1, 2, 3, 2, 3, 5, 1]
+Input: [1, 2, 3, 2, 3, 5, 1]
 <br>
-/Output: [1, 2, 3, 1, 2, 3, 1]
+Output: [1, 2, 3, 1, 2, 3, 1]
