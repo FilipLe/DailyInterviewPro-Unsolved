@@ -16,4 +16,4 @@ A Sudoku board is a 9x9 grid, where each row, column and each 3x3 subbox contain
 |345|286|179|<br>
 |--------------<br>
 <br>
-Given a 9x9 board, determine if it is a valid Sudoku board. The board may be partially filled, where an empty cell will be represented by the space character ' '.
+Given a 9x9 board, determine if it is a valid Sudoku board. The board may be partially filled, where an empty cell will be represented by the space character '&ensp;'.
