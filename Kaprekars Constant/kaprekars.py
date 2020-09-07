@@ -3,7 +3,7 @@ KAPREKAR_CONSTANT = 6174
 def num_kaprekar_iterations(n):
   # Fill this in.
 
-print num_kaprekar_iterations(123)
+print(num_kaprekar_iterations(123))
 # 3
 # Explanation:
 #  3210 - 123 = 3087
