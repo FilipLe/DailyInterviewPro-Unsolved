@@ -1,4 +1,4 @@
-#main function
+#main function 
 def longest_run(n):
     #store the binary input as a list of strings so that you can iterate through later
     char = []
