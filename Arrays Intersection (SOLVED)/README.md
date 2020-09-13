@@ -6,16 +6,16 @@ Given two arrays, write a function to compute their intersection - the intersect
 <br>
 Example 1:
 <br>
-Input: nums1 = [1,2,2,1], nums2 = [2,2]
+<b>Input:</b> nums1 = [1,2,2,1], nums2 = [2,2]
 <br>
-Output: [2]
+<b>Output:</b> [2]
 <br>
 <br>
 Example 2:
 <br>
-Input: nums1 = [4,9,5], nums2 = [9,4,9,8,4]
+<b>Input:</b> nums1 = [4,9,5], nums2 = [9,4,9,8,4]
 <br>
-Output: [9,4]
+<b>Output:</b> [9,4]
 <br>
 <br>
 Note:
