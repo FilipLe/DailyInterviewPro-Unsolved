@@ -14,11 +14,11 @@ Given a Roman numeral, find the corresponding decimal value. Inputs will be betw
 <br><br>
 Roman numerals are based on the following symbols:
 <br>I&ensp; &ensp;&ensp;&ensp;   1
-<br>IV&ensp;   &ensp;&ensp;  4
-<br>V &ensp;   &ensp;&ensp;  5
-<br>IX&ensp;   &ensp;&ensp;  9 
-<br>X &ensp;   &ensp;&ensp;  10
-<br>XL &ensp;   &ensp; 40
+<br>IV&ensp;   &ensp;&ensp;4
+<br>V &ensp;   &ensp;&ensp;5
+<br>IX&ensp;   &ensp;&ensp;9 
+<br>X &ensp;   &ensp;&ensp; 10
+<br>XL &ensp; &ensp; 40
 <br>L  &ensp; &ensp; &ensp;50
 <br>XC &ensp; &ensp;90
 <br>C  &ensp; &ensp;   100
