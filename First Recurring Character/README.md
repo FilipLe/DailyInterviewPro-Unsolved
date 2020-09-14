@@ -7,4 +7,4 @@ Given a string, return the first recurring letter that appears. If there are no 
 <br><b>Output:</b> t
 <br><br>
 <b>Input:</b> qwerty
-<b>Output:</b> None
+<br><b>Output:</b> None
