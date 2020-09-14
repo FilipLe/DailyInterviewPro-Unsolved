@@ -22,7 +22,7 @@ Roman numerals are based on the following symbols:
 <br>L  &ensp;  &ensp;  50
 <br>XC &ensp;       90
 <br>C  &ensp; &ensp;   100
-<br>CD &ensp;&ensp;  400
+<br>CD &ensp;&ensp;400
 <br>D  &ensp;  &ensp; 500
 <br>CM  &ensp;   900
 <br>M  &ensp;&ensp;    1000
