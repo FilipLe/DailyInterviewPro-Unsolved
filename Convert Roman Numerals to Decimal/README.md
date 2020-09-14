@@ -20,7 +20,7 @@ Roman numerals are based on the following symbols:
 <br>X &ensp;   &ensp;&ensp;  10
 <br>XL &ensp;   &ensp; 40
 <br>L  &ensp; &ensp; &ensp;50
-<br>XC &ensp;    &ensp;90
+<br>XC &ensp;  &ensp;90
 <br>C  &ensp; &ensp;   100
 <br>CD&ensp;&ensp;400
 <br>D  &ensp;  &ensp; 500
