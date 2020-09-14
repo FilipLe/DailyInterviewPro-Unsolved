@@ -22,10 +22,10 @@ Roman numerals are based on the following symbols:
 <br>L  &ensp;  &ensp;  50
 <br>XC &ensp;       90
 <br>C  &ensp; &ensp;   100
-<br>CD &ensp;    400
+<br>CD &ensp;     400
 <br>D  &ensp;  &ensp; 500
 <br>CM  &ensp;   900
-<br>M  &ensp;    1000
+<br>M  &ensp;&ensp;    1000
 <br><br>
 Numbers are strings of these symbols in descending order. In some cases, subtractive notation is used to avoid repeated characters. The rules are as follows:
 <br>1.) I placed before V or X is one less, so 4 = IV (one less than 5), and 9 is IX (one less than 10)
