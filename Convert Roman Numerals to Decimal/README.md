@@ -17,9 +17,9 @@ Roman numerals are based on the following symbols:
 <br>IV&ensp;   &ensp;  4
 <br>V &ensp;   &ensp;  5
 <br>IX&ensp;   &ensp;  9 
-<br>X &ensp;     10
+<br>X &ensp;   &ensp; &ensp; 10
 <br>XL &ensp;    40
-<br>L  &ensp;    50
+<br>L  &ensp;  &ensp;  50
 <br>XC &ensp;    90
 <br>C  &ensp;    100
 <br>CD &ensp;    400
