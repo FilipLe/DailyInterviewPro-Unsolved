@@ -7,7 +7,7 @@ Given a <b>n</b>x<b>m</b> matrix, find the number of ways someone can go from th
 <br><br>
 <b>Example:
 <br>Input:</b> [[0, 1, 0], [0, 0, 1], [0, 0, 0]]
-<b># 0 1 0
+<br><b># 0 1 0
 # 0 0 1
 # 0 0 0</b>
 <br><b>Output:</b> 2
