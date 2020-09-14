@@ -21,9 +21,9 @@ Roman numerals are based on the following symbols:
 <br>XL &ensp;    40
 <br>L  &ensp;  &ensp;  50
 <br>XC &ensp;    90
-<br>C  &ensp;    100
+<br>C  &ensp; &ensp;   100
 <br>CD &ensp;    400
-<br>D  &ensp;    500
+<br>D  &ensp;  &ensp; 500
 <br>CM  &ensp;   900
 <br>M  &ensp;    1000
 <br><br>
