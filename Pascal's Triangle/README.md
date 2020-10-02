@@ -2,7 +2,7 @@ This problem was recently asked by AirBNB:
 <br><br>
 Pascal's Triangle is a triangle where all numbers are the sum of the two numbers above it. Here's an example of the Pascal's Triangle of size 5.
 <br>
-<br>&ensp;&ensp; &ensp;1
+<br>&ensp;&ensp; &ensp; 1
 <br>&ensp; &ensp;&ensp;1 1
 <br> &ensp;   &ensp; 1 2 1
 <br>&ensp;&ensp;1 3 3 1
