@@ -7,13 +7,11 @@ Two words can be 'chained' if the last character of the first word is the same a
 Given a list of words, determine if there is a way to 'chain' all the words in a circle.
 <br>
 <br>
+```
 Example:
-<br>
 Input: ['eggs', 'karat', 'apple', 'snack', 'tuna']
-<br>
 Output: True
-<br>
-<br>
+
 Explanation:
-<br>
 The words in the order of ['apple', 'eggs', 'snack', 'karat', 'tuna'] creates a circle of chained words.
+```
