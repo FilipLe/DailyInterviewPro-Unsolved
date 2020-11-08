@@ -15,6 +15,7 @@ Output: True
 Explanation:
 The words in the order of ['apple', 'eggs', 'snack', 'karat', 'tuna'] creates a circle of chained words.
 ```
+<br>Starter Code:
 ```
 from collections import defaultdict
 
