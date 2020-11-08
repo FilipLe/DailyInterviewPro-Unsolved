@@ -15,3 +15,12 @@ Output: True
 Explanation:
 The words in the order of ['apple', 'eggs', 'snack', 'karat', 'tuna'] creates a circle of chained words.
 ```
+```
+from collections import defaultdict
+
+def chainedWords(words):
+  # Fill this in.
+
+print chainedWords(['apple', 'eggs', 'snack', 'karat', 'tuna'])
+# True
+```
