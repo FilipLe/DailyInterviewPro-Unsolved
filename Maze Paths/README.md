@@ -15,4 +15,4 @@ Input:
 
 Output: 2
 ```
-<br><br>The two paths that can only be taken in the above example are: <b>down -> right -> down -> right, and down -> down -> right -> right</b>.
+<br>The two paths that can only be taken in the above example are: <b>down -> right -> down -> right, and down -> down -> right -> right</b>.
