@@ -7,3 +7,12 @@ Given an expression (as a list) in reverse polish notation, evaluate the express
 Output: -9</i>
 <br><br>
 The equivalent expression of the above reverse polish notation would be (1 - ((2 + 3) * 2)).
+<br><br> Starter Code:
+```
+def reverse_polish_notation(expr):
+  # Fill this in.
+  
+# 1 - (2 + 3) * 2
+print(reverse_polish_notation([1, 2, 3, '+', 2, '*', '-']))
+# -9
+```
