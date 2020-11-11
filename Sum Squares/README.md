@@ -1,6 +1,6 @@
 This problem was recently asked by Facebook:
 <br><br>
-Given a number n, find the least number of squares needed to sum up to the number.
+Given a number <b>n</b>, find the least number of squares needed to sum up to the number.
 <br><br>Starter Code:
 ```
 def square_sum(n):
