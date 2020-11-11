@@ -4,3 +4,16 @@ Given a valid parenthesis string (with only <b>'('</b> and <b>')'</b>, an open p
 <br><br>
 If the string has multiple outer layer parenthesis (ie <b>(())()</b>), remove all outer layers and construct the new string. So in the example, the string can be broken down into <b>(()) + ()</b>. By removing both components outer layer we are left with <b>() + ''</b> which is simply <b>()</b>, thus the answer for that input would be <b>()</b>.
 
+<br><br>Starter Code:
+```
+def remove_outermost_parenthesis(s):
+  # Fill this in.
+
+print(remove_outermost_parenthesis('(())()'))
+# ()
+
+print(remove_outermost_parenthesis('(()())'))
+# ()()
+
+print(remove_outermost_parenthesis('()()()'))
+# ' '
