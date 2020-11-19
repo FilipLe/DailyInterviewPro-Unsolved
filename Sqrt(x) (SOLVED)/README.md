@@ -1,3 +1,4 @@
+# Sqrt(x)
 Given a non-negative integer ```x```, compute and return the <i>square root</i> of ```x```.
 <br><br>
 Since the return type is an integer, the decimal digits are <b>truncated</b>, and only <b>the integer part</b> of the result is returned.
