@@ -1,5 +1,5 @@
 class Solution:
-    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+    def findMedianSortedArrays(self, nums1, nums2):
         #Create counter to iterate through 2nd array
         count = 0
         
@@ -23,3 +23,18 @@ class Solution:
             numerator = nums1[int((len1-2)/2)]+nums1[int((len1-2)/2+1)]
             result = int(numerator)/2
             return float(result)
+        
+print(Solution().findMedianSortedArrays([1,3],[2]))
+#Return 2.0000
+
+print(Solution().findMedianSortedArrays([1,2],[3,4]))
+#Return 2.500000
+
+print(Solution().findMedianSortedArrays([0,0],[0,0]))
+#Return 0.00000
+
+print(Solution().findMedianSortedArrays([],[1]))
+#Return 1.0000
+
+print(Solution().findMedianSortedArrays([2],[]))
+#Return 2.0000
