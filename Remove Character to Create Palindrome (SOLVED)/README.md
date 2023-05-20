@@ -9,7 +9,7 @@ def create_palindrome(s):
 print(create_palindrome("abcdcbea"))
 # True
 print(create_palindrome("abccba"))
-# False
+# True
 print(create_palindrome("abccaa"))
 # False
 ```
