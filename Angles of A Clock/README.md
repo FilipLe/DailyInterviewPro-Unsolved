@@ -6,6 +6,26 @@ Given a time in the format of hour and minute, calculate the angle of the hour a
 <br>
 <br>Starter code:
 ```
+  				+--------+                                           +---------------+
+  				|        |--(A)------- Authorization Grant --------->|               |
+  				|        |                                           |               |
+  				|        |<-(B)----------- Access Token -------------|               |
+  				|        |               & Refresh Token             |               |
+  				|        |                                           |               |
+  				|        |                            +----------+   |               |
+  				|        |--(C)---- Access Token ---->|          |   |               |
+  				|        |                            |          |   |               |
+  				|        |<-(D)- Protected Resource --| Resource |   | Authorization |
+  				| Client |                            |  Server  |   |     Server    |
+  				|        |--(E)---- Access Token ---->|          |   |               |
+  				|        |                            |          |   |               |
+  				|        |<-(F)- Invalid Token Error -|          |   |               |
+  				|        |                            +----------+   |               |
+  				|        |                                           |               |
+  				|        |--(G)----------- Refresh Token ----------->|               |
+  				|        |                                           |               |
+  				|        |<-(H)----------- Access Token -------------|               |
+  				+--------+           & Optional Refresh Token        +---------------+
 def calcAngle(h, m):
   # Fill this in.
 
